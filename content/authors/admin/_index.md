@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chao Chen
+姓名: Chao Chen
 
 # Username (this should match the folder name)
 authors:
