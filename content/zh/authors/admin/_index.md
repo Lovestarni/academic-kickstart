@@ -27,15 +27,15 @@ Research Interest:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 博士
+    institution: 法国巴黎第六大学
+    year: 2014
+  - course: 硕士
+    institution: 西北工业大学
+    year: 2010
+  - course: 学士
+    institution: 西北工业大学
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
