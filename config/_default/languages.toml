@@ -3,34 +3,34 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
-  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-[zh]
- languageCode = "zh-Hans"
- contentDir = "content/zh"
- title = "陈超的个人主页"
- [zh.params]
-   description = "陈超"
- [[zh.menu.main]]
-   name = "首页"
+[en]
+ languageCode = "en"
+ contentDir = "content/en"
+ title = "Chen Chao's personal page"
+ [en.params]
+   description = "Chenchao"
+ [[en.menu.main]]
+   name = "Home"
    url = "#about"
    weight = 1
 #  [[zh.menu.main]]
 #    name = "博客"
 #    url = "#posts"
 #    weight = 20
- [[zh.menu.main]]
-   name = "项目"
-   url = "#projects"
+ [[en.menu.main]]
+   name = "projects"
+   url = "/projects/"
    weight = 30
- [[zh.menu.main]]
-   name = "发表论文"
+ [[en.menu.main]]
+   name = "publication"
    url = "/publications/"
    weight = 40
- [[zh.menu.main]]
-   name = "联系方式"
+ [[en.menu.main]]
+   name = "contact"
    url = "#contact"
    weight = 60
