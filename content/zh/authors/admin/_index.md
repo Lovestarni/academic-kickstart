@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 主要从事知识表示学习(Graph/Network Embeddings)、领域知识模型演化增长技术、人类活动行为建模 (Human Mobility Modelling)、时空轨迹数据可视化和压缩、群智感知技术及面向智慧城市应用的移动轨迹数据挖掘关键技术等研究。
 
-research_interests:
+interests:
 - 普适计算
 - 大数据挖掘
 - 智慧城市
